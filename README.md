@@ -23,33 +23,8 @@ I build modern web applications with server-side rendering, static generation, a
 - RESTful APIs and data models backed by MongoDB
 - Optimized performance and accessibility
 
-Projects
-
-- Project Name — Short description of a project (replace with real project): tech stack, features, link
-- Project Name — Short description of another project: tech stack, features, link
-
 Get in Touch
 
 - GitHub: https://github.com/Ruwani-tec
 - Email: (add your email here)
 - LinkedIn: (add your LinkedIn URL here)
-
-How to Run (example)
-
-1. Clone the repo:
-   git clone https://github.com/Ruwani-tec/Ruwani-tec.git
-2. Install dependencies (example for Next.js):
-   cd Ruwani-tec
-   npm install
-3. Run local dev server:
-   npm run dev
-
-Contributing
-
-Contributions are welcome. Open an issue or submit a pull request with improvements, bug fixes, or new projects.
-
-License
-
-This repository is open-source. Add a license if you want to specify usage terms.
-
-Feel free to tell me if you'd like different sections (portfolio, resume link, contact email) or a shorter/longer README.
