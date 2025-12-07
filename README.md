@@ -26,5 +26,3 @@ I build modern web applications with server-side rendering, static generation, a
 Get in Touch
 
 - GitHub: https://github.com/Ruwani-tec
-- Email: (add your email here)
-- LinkedIn: (add your LinkedIn URL here)
