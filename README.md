@@ -1,28 +1,91 @@
-# Ruwani Prasadika
+# 👋 Welcome to Ruwani-tec
 
-Full Stack Developer — Next.js, TypeScript, JavaScript, Python, MongoDB, React, Figma, HTML & CSS
+<div align="center">
 
-About
+### 🚀 Building Modern Solutions | 💻 Code with Passion | 🌟 Creating Impact
 
-Hi — I'm Ruwani Prasadika, a full stack developer passionate about building performant, accessible, and user-centered web applications. I specialize in Next.js and TypeScript for front-end and full-stack React applications, and I use Python and MongoDB for backend services and data storage.
+</div>
 
-Core Skills
+---
 
-- Frontend: Next.js, React, TypeScript, JavaScript, HTML5, CSS3
-- Backend: Python (Flask/Django), Node.js (optional)
-- Database: MongoDB
-- Design & Prototyping: Figma
-- Other: Git, REST APIs, Responsive Design, Deployment (Vercel, Netlify)
+## 📋 About Me
 
-What I Build
+Hello! I'm **Ruwani-tec**, a passionate developer dedicated to creating innovative solutions and contributing to the open-source community. This repository serves as my personal portfolio and playground for exciting projects.
 
-I build modern web applications with server-side rendering, static generation, and client-side interactivity. I focus on:
+---
 
-- Scalable and maintainable code using TypeScript and modern React patterns
-- Clean UI and prototypes designed in Figma
-- RESTful APIs and data models backed by MongoDB
-- Optimized performance and accessibility
+## 🎯 What You'll Find Here
 
-Get in Touch
+- 💡 **Innovative Projects** - Creative solutions to real-world problems
+- 📚 **Learning Resources** - Code examples and tutorials
+- 🔧 **Tools & Utilities** - Handy tools for developers
+- 📖 **Best Practices** - Clean code and architecture patterns
 
-- GitHub: https://github.com/Ruwani-tec
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | JavaScript, Python, Java, TypeScript |
+| **Frontend** | React, Vue.js, Tailwind CSS |
+| **Backend** | Node.js, Express, Django |
+| **Database** | MongoDB, PostgreSQL, Firebase |
+| **Tools** | Git, Docker, VS Code |
+
+</div>
+
+---
+
+## 📊 Repository Stats
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/Ruwani-tec?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Ruwani-tec?affiliations=OWNER&style=social)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+Coming soon! Explore my repositories to see what I'm working on.
+
+---
+
+## 💬 Get in Touch
+
+- 📧 **Email** - [Your Email Here]
+- 🔗 **LinkedIn** - [Your LinkedIn Profile]
+- 🐦 **Twitter** - [Your Twitter Handle]
+- 💼 **Portfolio** - [Your Portfolio Website]
+
+---
+
+## 🤝 Contributing
+
+I'm open to collaborations and contributions! Feel free to:
+
+- 🍴 Fork the repositories
+- 🐛 Report issues
+- ✨ Suggest improvements
+- 📤 Submit pull requests
+
+---
+
+## 📝 License
+
+All projects in this repository are open source and available under the MIT License.
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work helpful, please consider giving it a star! ⭐
+
+**Made with ❤️ by Ruwani-tec**
+
+</div>
